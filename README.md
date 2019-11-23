@@ -1,2 +1,2 @@
 # condenser
-towars computer-aided materials design based on combination of data sciences and computational chimistry/physics/biology
+learning/testing/developing towards computer-aided materials design based on combinations of data science and computational chimistry/physics/biology
